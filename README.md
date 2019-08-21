@@ -1,3 +1,4 @@
 # hello-world
-first repository
-myself manasa 
+ 
+hello humans!
+my name is manasa
